@@ -87,7 +87,7 @@ I'm **Tuan**, a passionate **Software Engineer** with over 4 years of experience
 Feel free to reach out — I’m always open to interesting projects and collaborations!
 
 - 📧 Email: [ntuan.work@gmail.com](mailto:ntuan.work@gmail.com)  
-- 💻 Linkedin: [https://github.com/ng-tuan](https://www.linkedin.com/in/nguyen-thanh-tuan-b71170222/)
+- 💻 Linkedin: [www.linkedin.com](https://www.linkedin.com/in/nguyen-thanh-tuan-b71170222/)
 
 ---
 
